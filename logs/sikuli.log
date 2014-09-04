@@ -1,0 +1,259 @@
+2014-08-29 14:59:21,272 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='txtVncsername_Win.jpg',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-08-29 14:59:21,274 INFO [testEngin] - txtVncsername_Win.jpg still in searching...,please wait paitiently
+2014-08-29 14:59:26,844 INFO [testEngin] - txtVncsername_Win.jpg found 
+2014-08-29 14:59:31,311 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='btnPropt.png')
+2014-08-29 14:59:31,314 INFO [testEngin] - btnPropt.png still in searching...,please wait paitiently
+2014-08-29 14:59:31,883 INFO [testEngin] - btnPropt.png found 
+2014-08-29 14:59:37,805 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='btnNextSOF.png')
+2014-08-29 14:59:37,807 INFO [testEngin] - btnNextSOF.png still in searching...,please wait paitiently
+2014-08-29 15:01:08,574 INFO [testEngin] - btnNextSOF.png found 
+2014-08-29 15:01:10,541 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='chkRcuRepositoryDel.png')
+2014-08-29 15:01:10,549 INFO [testEngin] - chkRcuRepositoryDel.png still in searching...,please wait paitiently
+2014-08-29 15:08:30,205 INFO [Excelkuli] - read the excel file sikuli_IF_ys.xlsx
+2014-08-29 15:08:31,081 INFO [Excelkuli] - run rcuUninstall4Linux
+2014-08-29 15:08:31,081 INFO [Excelkuli] - recreate PythonInterpreter
+2014-08-29 15:08:31,790 INFO [Excelkuli] - Python engin loaded
+2014-08-29 15:08:33,890 INFO [testEngin] - engin pre logic start
+2014-08-29 15:08:33,903 INFO [testEngin] - .\img\dereck_soa\20140829150833 created
+2014-08-29 15:08:33,904 INFO [Excelkuli] - executed pre_engin_script
+2014-08-29 15:08:33,918 INFO [testEngin] - nothing do in pre_step_script
+2014-08-29 15:08:33,921 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeClear',image='txtVncsername_Win.jpg',offsetValue='50.0',inputContent='infbjvm89.cn.oracle.com:5901\n',offsetDirect='right')
+2014-08-29 15:08:33,924 INFO [testEngin] - txtVncsername_Win.jpg still in searching...,please wait paitiently
+2014-08-29 15:08:38,445 INFO [testEngin] - txtVncsername_Win.jpg found 
+2014-08-29 15:08:43,692 INFO [testEngin] - nothing do in after_step_script
+2014-08-29 15:08:43,693 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='txtVncsername_Win.jpg',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-08-29 15:08:43,696 INFO [testEngin] - txtVncsername_Win.jpg still in searching...,please wait paitiently
+2014-08-29 15:08:47,973 INFO [testEngin] - txtVncsername_Win.jpg found 
+2014-08-29 15:08:52,219 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='btnPropt.png')
+2014-08-29 15:08:52,221 INFO [testEngin] - btnPropt.png still in searching...,please wait paitiently
+2014-08-29 15:08:52,691 INFO [testEngin] - btnPropt.png found 
+2014-08-29 15:08:58,470 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='btnNextSOF.png')
+2014-08-29 15:08:58,472 INFO [testEngin] - btnNextSOF.png still in searching...,please wait paitiently
+2014-08-29 15:12:38,713 INFO [Excelkuli] - read the excel file sikuli_IF_ys.xlsx
+2014-08-29 15:12:39,599 INFO [Excelkuli] - run rcuUninstall4Linux
+2014-08-29 15:12:39,599 INFO [Excelkuli] - recreate PythonInterpreter
+2014-08-29 15:12:40,271 INFO [Excelkuli] - Python engin loaded
+2014-08-29 15:12:42,371 INFO [testEngin] - engin pre logic start
+2014-08-29 15:12:42,381 INFO [testEngin] - .\img\dereck_soa\20140829151242 created
+2014-08-29 15:12:42,382 INFO [Excelkuli] - executed pre_engin_script
+2014-08-29 15:12:42,396 INFO [testEngin] - nothing do in pre_step_script
+2014-08-29 15:12:42,399 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeClear',image='txtVncsername_Win.jpg',offsetValue='50.0',inputContent='infbjvm89.cn.oracle.com:5901\n',offsetDirect='right')
+2014-08-29 15:12:42,401 INFO [testEngin] - txtVncsername_Win.jpg still in searching...,please wait paitiently
+2014-08-29 15:12:47,108 INFO [testEngin] - txtVncsername_Win.jpg found 
+2014-08-29 15:12:52,327 INFO [testEngin] - nothing do in after_step_script
+2014-08-29 15:12:52,328 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='txtVncsername_Win.jpg',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-08-29 15:12:52,331 INFO [testEngin] - txtVncsername_Win.jpg still in searching...,please wait paitiently
+2014-08-29 15:12:56,981 INFO [testEngin] - txtVncsername_Win.jpg found 
+2014-08-29 15:13:01,169 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='btnPropt.png')
+2014-08-29 15:13:01,171 INFO [testEngin] - btnPropt.png still in searching...,please wait paitiently
+2014-08-29 15:13:01,697 INFO [testEngin] - btnPropt.png found 
+2014-08-29 15:13:07,414 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='btnNextSOF.png')
+2014-08-29 15:13:07,416 INFO [testEngin] - btnNextSOF.png still in searching...,please wait paitiently
+2014-08-29 15:13:16,828 INFO [testEngin] - btnNextSOF.png found 
+2014-08-29 15:13:18,609 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='chkRcuRepositoryDel.png')
+2014-08-29 15:13:18,611 INFO [testEngin] - chkRcuRepositoryDel.png still in searching...,please wait paitiently
+2014-09-01 16:41:57,669 INFO [Excelkuli] - read the excel file sikuli_IF_ys.xlsx
+2014-09-01 16:41:58,697 INFO [Excelkuli] - run rcuUninstall4Linux
+2014-09-01 16:41:58,697 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-01 16:41:59,709 INFO [Excelkuli] - Python engin loaded
+2014-09-01 16:42:03,387 INFO [testEngin] - engin pre logic start
+2014-09-01 16:42:04,440 INFO [testEngin] - .\img\dereck_soa\20140901164204 created
+2014-09-01 16:42:04,441 INFO [Excelkuli] - executed pre_engin_script
+2014-09-01 16:42:04,450 INFO [testEngin] - nothing do in pre_step_script
+2014-09-01 16:42:04,452 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeClear',image='txtVncsername_Win.jpg',offsetValue='50.0',inputContent='infbjvm89.cn.oracle.com:5901\n',offsetDirect='right')
+2014-09-01 16:42:04,454 INFO [testEngin] - txtVncsername_Win.jpg still in searching...,please wait paitiently
+2014-09-01 16:42:09,438 INFO [testEngin] - txtVncsername_Win.jpg found 
+2014-09-01 16:42:15,288 INFO [testEngin] - nothing do in after_step_script
+2014-09-01 16:42:15,289 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='txtVncsername_Win.jpg',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-01 16:42:15,291 INFO [testEngin] - txtVncsername_Win.jpg still in searching...,please wait paitiently
+2014-09-01 16:42:19,582 INFO [testEngin] - txtVncsername_Win.jpg found 
+2014-09-01 16:42:23,810 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='btnPropt.png')
+2014-09-01 16:42:23,812 INFO [testEngin] - btnPropt.png still in searching...,please wait paitiently
+2014-09-01 16:44:14,139 INFO [Excelkuli] - read the excel file sikuli_IF.xlsx
+2014-09-01 16:44:15,015 INFO [Excelkuli] - run rcuUninstall
+2014-09-01 16:44:15,016 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-01 16:44:15,734 INFO [Excelkuli] - Python engin loaded
+2014-09-01 16:44:17,973 INFO [testEngin] - engin pre logic start
+2014-09-01 16:44:18,022 INFO [testEngin] - .\img\dreck_soa\20140901164417 created
+2014-09-01 16:44:18,023 INFO [Excelkuli] - executed pre_engin_script
+2014-09-01 16:44:18,038 INFO [testEngin] - nothing do in pre_step_script
+2014-09-01 16:44:18,040 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeClear',image='vncsername.jpg',offsetValue='50.0',inputContent='infbjvm89.cn.oracle.com:5901\n',offsetDirect='right')
+2014-09-01 16:44:18,043 INFO [testEngin] - vncsername.jpg still in searching...,please wait paitiently
+2014-09-01 16:44:23,034 INFO [testEngin] - vncsername.jpg found 
+2014-09-01 16:44:28,433 INFO [testEngin] - nothing do in after_step_script
+2014-09-01 16:44:28,435 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='password.jpg',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-01 16:44:28,437 INFO [testEngin] - password.jpg still in searching...,please wait paitiently
+2014-09-01 16:44:33,361 INFO [testEngin] - password.jpg found 
+2014-09-01 16:44:39,866 INFO [Excelkuli] - invoke extendWaitEvent(timeOut='1.0',event='clicktypeNoclear',image='der_vncosPassword.jpg',timeOutContinue='yes',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-01 16:44:39,869 INFO [testEngin] - der_vncosPassword.jpg still in searching...,please wait paitiently
+2014-09-01 16:44:41,842 INFO [testEngin] - der_vncosPassword.jpg found 
+2014-09-01 16:44:46,163 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='openterminal.jpg')
+2014-09-01 16:44:46,165 INFO [testEngin] - openterminal.jpg still in searching...,please wait paitiently
+2014-09-01 16:44:46,650 INFO [testEngin] - openterminal.jpg found 
+2014-09-01 16:44:52,685 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='der_next.jpg')
+2014-09-01 16:44:52,686 INFO [testEngin] - der_next.jpg still in searching...,please wait paitiently
+2014-09-01 16:44:57,047 INFO [testEngin] - der_next.jpg found 
+2014-09-01 16:44:59,015 INFO [Excelkuli] - invoke extendWaitEvent(hotKey='"d",KEY_ALT',image='der_deleteOption.jpg')
+2014-09-01 16:44:59,017 INFO [testEngin] - der_deleteOption.jpg still in searching...,please wait paitiently
+2014-09-01 16:45:03,413 INFO [testEngin] - der_deleteOption.jpg found 
+2014-09-01 16:45:04,209 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='der_next.jpg')
+2014-09-01 16:45:04,211 INFO [testEngin] - der_next.jpg still in searching...,please wait paitiently
+2014-09-01 16:45:08,737 INFO [testEngin] - der_next.jpg found 
+2014-09-01 16:45:10,723 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='der_hostname.jpg',offsetValue='100.0',inputContent='infbjvm89.cn.oracle.com',offsetDirect='right')
+2014-09-01 16:45:10,725 INFO [testEngin] - der_hostname.jpg still in searching...,please wait paitiently
+2014-09-01 16:45:17,591 INFO [testEngin] - der_hostname.jpg found 
+2014-09-01 16:45:22,586 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='der_port.jpg',offsetValue='100.0',inputContent='1522',offsetDirect='right')
+2014-09-01 16:45:22,588 INFO [testEngin] - der_port.jpg still in searching...,please wait paitiently
+2014-09-01 16:45:23,236 INFO [testEngin] - der_port.jpg found 
+2014-09-01 16:45:27,486 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='der_dbservice.jpg',offsetValue='100.0',inputContent='pdb1.cn.oracle.com',offsetDirect='right')
+2014-09-01 16:45:27,489 INFO [testEngin] - der_dbservice.jpg still in searching...,please wait paitiently
+2014-09-01 16:46:08,722 INFO [testEngin] - der_dbservice.jpg found 
+2014-09-01 16:46:13,624 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='der_dbuser.jpg',offsetValue='100.0',inputContent='sys',offsetDirect='right')
+2014-09-01 16:46:13,626 INFO [testEngin] - der_dbuser.jpg still in searching...,please wait paitiently
+2014-09-01 16:46:14,165 INFO [testEngin] - der_dbuser.jpg found 
+2014-09-01 16:46:18,347 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='der_dbpassword.jpg',offsetValue='100.0',inputContent='welcome1',offsetDirect='right')
+2014-09-01 16:46:18,349 INFO [testEngin] - der_dbpassword.jpg still in searching...,please wait paitiently
+2014-09-01 16:46:18,991 INFO [testEngin] - der_dbpassword.jpg found 
+2014-09-01 16:46:23,385 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='der_next.jpg')
+2014-09-01 16:46:23,387 INFO [testEngin] - der_next.jpg still in searching...,please wait paitiently
+2014-09-01 16:46:27,930 INFO [testEngin] - der_next.jpg found 
+2014-09-01 16:46:30,002 INFO [testEngin] - engin after logic start
+2014-09-01 16:46:33,170 INFO [Excelkuli] - executed after_engin_script
+2014-09-01 16:46:33,172 INFO [Excelkuli] - run Sheet2
+2014-09-01 16:46:33,176 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-01 16:46:33,177 INFO [Excelkuli] - Python engin loaded
+2014-09-01 16:46:33,229 INFO [Excelkuli] - run Sheet3
+2014-09-01 16:46:33,229 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-01 16:46:33,230 INFO [Excelkuli] - Python engin loaded
+2014-09-01 16:46:33,279 INFO [Excelkuli] - run Sheet1
+2014-09-01 16:46:33,280 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-01 16:46:33,281 INFO [Excelkuli] - Python engin loaded
+2014-09-01 17:04:09,523 INFO [Excelkuli] - read the excel file sikuli_IF.xlsx
+2014-09-01 17:04:13,277 INFO [Excelkuli] - run rcuUninstall
+2014-09-01 17:04:13,278 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-01 17:04:15,486 INFO [Excelkuli] - Python engin loaded
+2014-09-01 17:04:20,747 INFO [testEngin] - engin pre logic start
+2014-09-01 17:04:21,305 INFO [testEngin] - .\img\dreck_soa\20140901170421 created
+2014-09-01 17:04:21,306 INFO [Excelkuli] - executed pre_engin_script
+2014-09-01 17:04:21,325 INFO [testEngin] - nothing do in pre_step_script
+2014-09-01 17:04:21,327 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeClear',image='vncsername.jpg',offsetValue='50.0',inputContent='infbjvm89.cn.oracle.com:5901\n',offsetDirect='right')
+2014-09-01 17:04:21,329 INFO [testEngin] - vncsername.jpg still in searching...,please wait paitiently
+2014-09-01 17:04:25,069 INFO [testEngin] - vncsername.jpg found 
+2014-09-01 17:04:30,492 INFO [testEngin] - nothing do in after_step_script
+2014-09-01 17:04:30,494 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='password.jpg',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-01 17:04:30,495 INFO [testEngin] - password.jpg still in searching...,please wait paitiently
+2014-09-01 17:04:35,288 INFO [testEngin] - password.jpg found 
+2014-09-01 17:04:41,690 INFO [Excelkuli] - invoke extendWaitEvent(timeOut='1.0',event='clicktypeNoclear',image='der_vncosPassword.jpg',timeOutContinue='yes',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-01 17:04:41,692 INFO [testEngin] - der_vncosPassword.jpg still in searching...,please wait paitiently
+2014-09-01 17:04:42,169 INFO [testEngin] - der_vncosPassword.jpg found 
+2014-09-01 17:04:46,590 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='openterminal.jpg')
+2014-09-01 17:04:46,592 INFO [testEngin] - openterminal.jpg still in searching...,please wait paitiently
+2014-09-01 17:04:47,024 INFO [testEngin] - openterminal.jpg found 
+2014-09-02 11:45:44,402 INFO [Excelkuli] - read the excel file sikuli_IF.xlsx
+2014-09-02 11:45:45,499 INFO [Excelkuli] - run rcuUninstall
+2014-09-02 11:45:45,500 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-02 11:45:46,491 INFO [Excelkuli] - Python engin loaded
+2014-09-02 11:45:50,057 INFO [testEngin] - engin pre logic start
+2014-09-02 11:45:50,109 INFO [testEngin] - .\img\dreck_soa\20140902114550 created
+2014-09-02 11:45:50,110 INFO [Excelkuli] - executed pre_engin_script
+2014-09-02 11:45:50,125 INFO [testEngin] - nothing do in pre_step_script
+2014-09-02 11:45:50,127 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeClear',image='vncsername.jpg',offsetValue='50.0',inputContent='infbjvm89.cn.oracle.com:5901\n',offsetDirect='right')
+2014-09-02 11:45:50,130 INFO [testEngin] - vncsername.jpg still in searching...,please wait paitiently
+2014-09-02 11:45:54,646 INFO [testEngin] - vncsername.jpg found 
+2014-09-02 11:45:59,982 INFO [testEngin] - nothing do in after_step_script
+2014-09-02 11:45:59,984 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='password.jpg',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-02 11:45:59,987 INFO [testEngin] - password.jpg still in searching...,please wait paitiently
+2014-09-02 11:46:05,521 INFO [testEngin] - password.jpg found 
+2014-09-02 11:46:11,910 INFO [Excelkuli] - invoke extendWaitEvent(timeOut='1.0',event='clicktypeNoclear',image='der_vncosPassword.jpg',timeOutContinue='yes',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-02 11:46:11,914 INFO [testEngin] - der_vncosPassword.jpg still in searching...,please wait paitiently
+2014-09-02 11:46:14,167 INFO [testEngin] - der_vncosPassword.jpg found 
+2014-09-02 11:46:18,551 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='openterminal.jpg')
+2014-09-02 11:46:18,553 INFO [testEngin] - openterminal.jpg still in searching...,please wait paitiently
+2014-09-02 11:46:19,235 INFO [testEngin] - openterminal.jpg found 
+2014-09-02 11:46:25,275 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='der_next.jpg')
+2014-09-02 11:46:25,278 INFO [testEngin] - der_next.jpg still in searching...,please wait paitiently
+2014-09-02 11:46:29,982 INFO [testEngin] - der_next.jpg found 
+2014-09-02 11:46:31,984 INFO [Excelkuli] - invoke extendWaitEvent(hotKey='"d",KEY_ALT',image='der_deleteOption.jpg')
+2014-09-02 11:46:31,987 INFO [testEngin] - der_deleteOption.jpg still in searching...,please wait paitiently
+2014-09-02 11:46:36,857 INFO [testEngin] - der_deleteOption.jpg found 
+2014-09-02 11:46:37,682 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='der_next.jpg')
+2014-09-02 11:46:37,685 INFO [testEngin] - der_next.jpg still in searching...,please wait paitiently
+2014-09-02 11:46:42,763 INFO [testEngin] - der_next.jpg found 
+2014-09-02 11:46:44,770 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='der_hostname.jpg',offsetValue='100.0',inputContent='infbjvm89.cn.oracle.com',offsetDirect='right')
+2014-09-02 11:46:44,772 INFO [testEngin] - der_hostname.jpg still in searching...,please wait paitiently
+2014-09-02 11:46:47,549 INFO [testEngin] - der_hostname.jpg found 
+2014-09-02 11:46:52,583 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='der_port.jpg',offsetValue='100.0',inputContent='1522',offsetDirect='right')
+2014-09-02 11:46:52,585 INFO [testEngin] - der_port.jpg still in searching...,please wait paitiently
+2014-09-02 11:46:53,365 INFO [testEngin] - der_port.jpg found 
+2014-09-02 11:46:57,573 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='der_dbservice.jpg',offsetValue='100.0',inputContent='pdb1.cn.oracle.com',offsetDirect='right')
+2014-09-02 11:46:57,575 INFO [testEngin] - der_dbservice.jpg still in searching...,please wait paitiently
+2014-09-02 11:47:34,626 INFO [testEngin] - der_dbservice.jpg found 
+2014-09-02 11:47:39,479 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='der_dbuser.jpg',offsetValue='100.0',inputContent='sys',offsetDirect='right')
+2014-09-02 11:47:39,481 INFO [testEngin] - der_dbuser.jpg still in searching...,please wait paitiently
+2014-09-02 11:47:40,155 INFO [testEngin] - der_dbuser.jpg found 
+2014-09-02 11:47:44,397 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='der_dbpassword.jpg',offsetValue='100.0',inputContent='welcome1',offsetDirect='right')
+2014-09-02 11:47:44,399 INFO [testEngin] - der_dbpassword.jpg still in searching...,please wait paitiently
+2014-09-02 11:47:45,029 INFO [testEngin] - der_dbpassword.jpg found 
+2014-09-02 11:47:49,434 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='der_next.jpg')
+2014-09-02 11:47:49,435 INFO [testEngin] - der_next.jpg still in searching...,please wait paitiently
+2014-09-02 11:47:54,674 INFO [testEngin] - der_next.jpg found 
+2014-09-02 11:47:56,777 INFO [testEngin] - engin after logic start
+2014-09-02 11:47:58,776 INFO [Excelkuli] - executed after_engin_script
+2014-09-02 11:47:58,786 INFO [Excelkuli] - run Sheet2
+2014-09-02 11:47:58,787 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-02 11:47:58,790 INFO [Excelkuli] - Python engin loaded
+2014-09-02 11:47:58,909 INFO [Excelkuli] - run Sheet3
+2014-09-02 11:47:58,949 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-02 11:47:58,950 INFO [Excelkuli] - Python engin loaded
+2014-09-02 11:47:59,075 INFO [Excelkuli] - run Sheet1
+2014-09-02 11:47:59,173 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-02 11:47:59,174 INFO [Excelkuli] - Python engin loaded
+2014-09-03 23:18:04,358 INFO [Excelkuli] - read the excel file sikuli_IF.xlsx
+2014-09-03 23:18:08,787 INFO [Excelkuli] - run rcuUninstall
+2014-09-03 23:18:08,788 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-03 23:18:11,499 INFO [Excelkuli] - Python engin loaded
+2014-09-03 23:18:18,073 INFO [testEngin] - engin pre logic start
+2014-09-03 23:18:19,325 INFO [testEngin] - .\screenshot\dreck_soa\20140903231819 created
+2014-09-03 23:18:19,328 INFO [Excelkuli] - executed pre_engin_script
+2014-09-03 23:18:19,373 INFO [testEngin] - nothing do in pre_step_script
+2014-09-03 23:18:19,377 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeClear',image='vncsername.jpg',offsetValue='50.0',inputContent='infbjvm89.cn.oracle.com:5901\n',offsetDirect='right')
+2014-09-03 23:18:19,382 INFO [testEngin] - vncsername.jpg still in searching...,please wait paitiently
+2014-09-03 23:18:24,589 INFO [testEngin] - vncsername.jpg found 
+2014-09-03 23:18:30,082 INFO [testEngin] - nothing do in after_step_script
+2014-09-03 23:18:30,085 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='password.jpg',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-03 23:18:30,090 INFO [testEngin] - password.jpg still in searching...,please wait paitiently
+2014-09-03 23:20:09,605 INFO [Excelkuli] - read the excel file sikuli_IF.xlsx
+2014-09-03 23:20:11,119 INFO [Excelkuli] - run rcuUninstall
+2014-09-03 23:20:11,122 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-03 23:20:12,221 INFO [Excelkuli] - Python engin loaded
+2014-09-03 23:20:16,138 INFO [testEngin] - engin pre logic start
+2014-09-03 23:20:16,287 INFO [testEngin] - .\screenshot\dreck_soa\20140903232016 created
+2014-09-03 23:20:16,288 INFO [Excelkuli] - executed pre_engin_script
+2014-09-03 23:20:16,313 INFO [testEngin] - nothing do in pre_step_script
+2014-09-03 23:20:16,317 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeClear',image='vncsername.jpg',offsetValue='50.0',inputContent='infbjvm89.cn.oracle.com:5901\n',offsetDirect='right')
+2014-09-03 23:20:16,322 INFO [testEngin] - vncsername.jpg still in searching...,please wait paitiently
+2014-09-03 23:20:20,769 INFO [testEngin] - vncsername.jpg found 
+2014-09-03 23:20:26,157 INFO [testEngin] - nothing do in after_step_script
+2014-09-03 23:20:26,161 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='password.jpg',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-03 23:20:26,167 INFO [testEngin] - password.jpg still in searching...,please wait paitiently
+2014-09-04 11:06:11,595 INFO [Excelkuli] - read the excel file sikuli_IF.xlsx
+2014-09-04 11:06:19,701 INFO [Excelkuli] - run rcuUninstall
+2014-09-04 11:06:19,701 INFO [Excelkuli] - recreate PythonInterpreter
+2014-09-04 11:06:20,387 INFO [Excelkuli] - Python engin loaded
+2014-09-04 11:06:23,168 INFO [testEngin] - engin pre logic start
+2014-09-04 11:06:24,531 INFO [testEngin] - .\screenshot\dreck_soa\20140904110624 created
+2014-09-04 11:06:24,532 INFO [Excelkuli] - executed pre_engin_script
+2014-09-04 11:06:24,574 INFO [testEngin] - nothing do in pre_step_script
+2014-09-04 11:06:24,577 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeClear',image='vncsername.jpg',offsetValue='50.0',inputContent='infbjvm89.cn.oracle.com:5901\n',offsetDirect='right')
+2014-09-04 11:06:24,580 INFO [testEngin] - vncsername.jpg still in searching...,please wait paitiently
+2014-09-04 11:06:29,488 INFO [testEngin] - vncsername.jpg found 
+2014-09-04 11:06:34,714 INFO [testEngin] - nothing do in after_step_script
+2014-09-04 11:06:34,717 INFO [Excelkuli] - invoke extendWaitEvent(event='clicktypeNoclear',image='password.jpg',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-04 11:06:34,718 INFO [testEngin] - password.jpg still in searching...,please wait paitiently
+2014-09-04 11:06:39,337 INFO [testEngin] - password.jpg found 
+2014-09-04 11:06:45,530 INFO [Excelkuli] - invoke extendWaitEvent(timeOut='1.0',event='clicktypeNoclear',image='der_vncosPassword.jpg',timeOutContinue='yes',offsetValue='50.0',inputContent='welcome1\n',offsetDirect='right')
+2014-09-04 11:06:45,532 INFO [testEngin] - der_vncosPassword.jpg still in searching...,please wait paitiently
+2014-09-04 11:06:46,157 INFO [testEngin] - der_vncosPassword.jpg found 
+2014-09-04 11:06:50,399 INFO [Excelkuli] - invoke extendWaitEvent(event='click',image='openterminal.jpg')
+2014-09-04 11:06:50,401 INFO [testEngin] - openterminal.jpg still in searching...,please wait paitiently
+2014-09-04 11:06:50,868 INFO [testEngin] - openterminal.jpg found 
